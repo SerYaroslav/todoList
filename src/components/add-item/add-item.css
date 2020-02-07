@@ -1,0 +1,13 @@
+.item-add-form {
+  margin-top: 10px;
+}
+
+.text-field {
+  max-width: auto;
+  margin-right: 3px;
+}
+
+.add-button{
+  min-width: 30%;
+}
+
